@@ -1,0 +1,1 @@
+This repository has a structure that covers the fundamentals of machine learning. Academically, I benefited from Andrew NG's CS229 course and notes. I uploaded the projects I made about the parts I learned to this repository.
